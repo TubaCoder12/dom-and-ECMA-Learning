@@ -1,0 +1,5 @@
+ECMA
+ECMAScript JavaScript ka official standard hai jo 
+language ka syntax aur features define karta hai. JavaScript us
+standard ka implementation hai, aur naye ECMAScript versions me modern
+features add hote hain jaise ES6 me let, const, arrow functions, aur classes.
